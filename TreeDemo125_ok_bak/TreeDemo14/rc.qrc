@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>branch-collapse.png</file>
+        <file>branch-expand.png</file>
+    </qresource>
+</RCC>

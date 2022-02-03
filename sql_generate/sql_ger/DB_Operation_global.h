@@ -1,0 +1,12 @@
+﻿#ifndef HY_SQLITE_DLL_GLOBAL_H
+#define HY_SQLITE_DLL_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(DB_OPERATION_LIBRARY)
+#  define DB_OPERATIONSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define DB_OPERATIONSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // DB_OPERATION_GLOBAL_H
