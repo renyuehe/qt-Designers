@@ -17,7 +17,6 @@ ellipsis:		c++缺省参数的用法 ★
 encapsulation:	封装，其中演示了 一个char 栈，count 字符数
 enums:		演示 enum 枚举用法
 emvironment:	Qt 设置环境变量
-eventloop:	一系列的关于qt的eventloop测试,.....................................待优化（简化） ★★★★★
 exceptions:	异常,自定义异常 ★
 findchildren:	QObject::findchildren 用例 ★★
 functions:		..................................未实现，参考

@@ -19,7 +19,6 @@ SUBDIRS += \
     encapsulation \
     enums \
     environment \
-    eventloop \
     exceptions \
     findchildren \
     functions \
